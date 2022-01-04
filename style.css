@@ -2,12 +2,29 @@ body {
     background-color: greenyellow;
 }
 
+h3 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
 h1 {
+    text-decoration: lightblue;
+    text-shadow: lightblue;
     font-style: italic;
     font-size: xx-large;
     font-family: cursive;
+    text-align: center;
 }
 
 p {
+    font-size: x-large;
     background-color: lawngreen;
+    text-align: center;
+}
+
+table {
+    background-color: mediumaquamarine;
 }
