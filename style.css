@@ -1,0 +1,13 @@
+body {
+    background-color: greenyellow;
+}
+
+h1 {
+    font-style: italic;
+    font-size: xx-large;
+    font-family: cursive;
+}
+
+p {
+    background-color: lawngreen;
+}
