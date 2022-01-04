@@ -2,11 +2,7 @@ body {
     background-color: greenyellow;
 }
 
-image {
-    size: 1ch;
-}
-
-h3 {
+h1 {
     text-align: center;
 }
 
@@ -14,7 +10,8 @@ h2 {
     text-align: center;
 }
 
-h1 {
+.naam {
+    background-color: orange;
     text-decoration: lightblue;
     text-shadow: lightblue;
     font-style: italic;
@@ -25,7 +22,7 @@ h1 {
 
 p {
     font-size: x-large;
-    background-color: lawngreen;
+    background-color: lightseagreen;
     text-align: center;
 }
 
